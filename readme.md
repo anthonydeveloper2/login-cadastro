@@ -48,6 +48,6 @@ Este projeto é um template visual. Não está conectado a banco de dados e não
 **Código feito por Anthony**  
 Todos os direitos reservados ©
 
-Se quiser adaptar, melhorar ou integrar com back-end (Node.js, Firebase, etc), sinta-se à vontade!
+Se quiser adaptar, melhorar ou integrar com back-end (Node.js, etc), sinta-se à vontade!
 
 ---
