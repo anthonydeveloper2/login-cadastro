@@ -20,7 +20,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript puro.
 ##  Tecnologias usadas
 
 - **HTML5** – estrutura semântica.
-- **CSS3** – animações, efeitos visuais, responsividade.
+- **CSS** – animações, efeitos visuais, responsividade.
 - **JavaScript** – validações e manipulação dinâmica.
 - **Canvas API** – fundo animado com partículas.
 
@@ -30,11 +30,6 @@ Projeto desenvolvido com HTML, CSS e JavaScript puro.
 
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
-3. Use o login padrão para teste:
-   - **Usuário:** `admin`
-   - **Senha:** `1234`
-4. Experimente cadastrar novos usuários (armazenamento local não implementado nesta versão).
-
 ---
 
 ##  Observações
